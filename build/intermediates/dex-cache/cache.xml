@@ -2,11 +2,109 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
         revision="23.0.2"
-        sha1="32423539048f6a4744344210bdfe5a0e196b6ade">
-        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1483565af4493033133ea7ce086193e53ab2d6a6\classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_89425171aa33e7a198a1e2cbc922bed6e79542d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a3588ad7564fd264b7f87bbf495aaad721e3d939.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_20e8fcec9779d2338cde639eeb443235d32d2b74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9da0b63d47fd3508258afb4dd9e3379a559e06ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6049929d525f5db0374b810ecf52ce25d828f8a6.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e4abbb2088340e986a91c4999ed03aeba9231082.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2cd50dfcf5f607ec9bbef7f5618d528e7d5520be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c71466a72968b7b1c66e511419c4b44bb5fac3a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_a9f99aba9306785bcfba735ce51bdf0a05e9d384.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7616be9ffd20c71ec9274750115b79cc9ef56419.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3da1008e7f656ef12701aa1d1c9723355cac1dbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ba02871f0e5fe0d87ac43af0cfe10aa507fc489c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5e8255b43d122af67ad99ca1e791f15f80c837be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Siddharth Arya\Desktop\Assignment4\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_479605d98da38b1a674e8fc6d0da185dc659e159.jar" />
     </item>
 
 </items>
